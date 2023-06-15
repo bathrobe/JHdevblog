@@ -6,7 +6,7 @@ image: "griutwba0cobl8qqvhhb"
 order: 1
 ---
 
-I developed a series of Colab notebooks that take the transcripts of Timothy Snyder's "Making of Modern Ukraine" course from Yale University and create from them spaced repetition flashcards for Anki using GPT-4.
+I developed a series of Colab notebooks that take the transcripts of Timothy Snyder's "[Making of Modern Ukraine](https://www.youtube.com/watch?v=bJczLlwp-d8)" course from Yale University and create from them spaced repetition flashcards for Anki using GPT-4.
 
 I'm currently working on an article about this process, but for now you can check out two of the Colab notebooks here:
 
