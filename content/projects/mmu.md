@@ -14,3 +14,5 @@ I'm currently working on an article about this process, but for now you can chec
 - [Flashcard generator](https://colab.research.google.com/drive/14K63SBlyD_aCBWDxYyNdUt7X__A06laa)
 
 And you can download the whole course's Anki flashcards [here](https://drive.google.com/file/d/1rS6vddF6jJpEMzFONzus-8rpzEdGKzRB/view?usp=drive_link).
+
+Finally, if you use these resources or want to express support for this project, please donate what you can spare to [Razom](https://www.razomforukraine.org/).
