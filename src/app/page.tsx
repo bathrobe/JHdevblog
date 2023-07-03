@@ -22,13 +22,6 @@ const HomePage = () => {
           >
             Sanity.io
           </a>{" "}
-          and looking for additional work. Got some? Give me a{" "}
-          <a
-            className="hover:text-green-300 underline transition-colors duration-200"
-            href="mailto:hello@joeholmes.dev"
-          >
-            ring
-          </a>
           .<p className="py-8">Check out some of my recent projects below.</p>
         </div>
 
