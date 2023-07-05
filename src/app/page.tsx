@@ -22,7 +22,8 @@ const HomePage = () => {
           >
             Sanity.io
           </a>{" "}
-          .<p className="py-8">Check out some of my recent projects below.</p>
+          and looking for additional work.{" "}
+          <p className="py-8">Check out some of my recent projects below.</p>
         </div>
 
         <div className="mt-4">
