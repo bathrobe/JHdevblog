@@ -3,7 +3,7 @@ title: Live Typewriter Poems
 description: One poem about a "sentient AI's love letter to humanity" was described by musician Grimes as "literally a masterpiece."
 date: 2023-06
 image: "wmhsqnk6rpn8vkicpzdf"
-order: 3
+order: 4
 ---
 
 I used to travel around offering my services as a "poet for hire," writing typewritten poetry on any topic. For a festival this year, I dusted off my Remington Quiet-Riter and wrote for an audience of internet friends. Here are some of the poems I wrote.

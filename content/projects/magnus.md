@@ -5,5 +5,5 @@ description: A story for Slate about world chess champion Magnus Carlsen's strea
 image: "qqauifouc6nzxng3pqlf"
 externalLink: true
 url: https://slate.com/culture/2020/02/magnus-carlsen-speed-chess-drdrunkenstein-pseudonyms-twitch-youtube.html
-order: 4
+order: 5
 ---
