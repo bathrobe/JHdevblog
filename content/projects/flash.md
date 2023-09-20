@@ -12,4 +12,4 @@ Here's how you can check it out:
 
 - Visit the app itself (log in to try out some of the lessons, though be advised they're still rough prototypes) at [Flashbang](https://flashbang.school)
 - Watch my [demo video](https://www.youtube.com/watch?v=UfnOW8psNKk)
-- Check out the Substack I created to update supporters on my progress
+- Check out the [Substack](https://www.flashbangapp.substack.com) I created to update supporters on my progress
