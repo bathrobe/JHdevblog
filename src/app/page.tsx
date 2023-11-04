@@ -15,7 +15,7 @@ const HomePage = () => {
           <p>
             I'm a writer, developer, and educator with a passion for simplifying
             complex subjects. I'm currently a curriculum developer specializing
-            in AI/ML at [Codecademy](https://www.codecademy.com/).
+            in AI/ML at <a href="https://www.codecademy.com">Codecademy</a>.
           </p>
           <p className="py-8">Check out some of my recent projects below.</p>
         </div>
