@@ -2,7 +2,7 @@
 title: Flashbang, a learning gym for online courses
 description: My project for the nights & weekends incubator - a full stack application using LLMs and spaced repetition to learn online course content at lightspeed.
 date: 2023-09
-image: "api6yntqxp7heiq6ze7y"
+image: "ekz6na6trzl5sat8yvmw"
 order: 1
 ---
 
